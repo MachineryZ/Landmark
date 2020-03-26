@@ -3,6 +3,10 @@ import networkx as nx
 
 
 def planning(env, path_node):
+    """
+    env : environment parameter
+    path_node : list of [x, y] represents the path nodes
+    """
     
 
 
